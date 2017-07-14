@@ -95,7 +95,7 @@
 			this.MaximumSize = new System.Drawing.Size(400, 275);
 			this.MinimumSize = new System.Drawing.Size(400, 275);
 			this.Name = "MainForm";
-			this.Text = "MainForm";
+			this.Text = "Chuck Norris facts gatherer";
 			((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
 			this.ResumeLayout(false);
 
