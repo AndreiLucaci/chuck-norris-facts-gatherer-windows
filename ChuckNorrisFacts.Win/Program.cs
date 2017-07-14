@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using ChuckNorrisFacts.Win.Cofniguration;
+using ChuckNorrisFacts.Win.Configuration;
 using Unity;
 
 namespace ChuckNorrisFacts.Win

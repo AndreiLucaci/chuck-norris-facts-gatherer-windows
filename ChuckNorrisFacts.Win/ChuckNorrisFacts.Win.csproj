@@ -57,7 +57,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cofniguration\ConfigureUnity.cs" />
+    <Compile Include="Configuration\ConfigureUnity.cs" />
     <Compile Include="Controllers\FactsGathererController.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>

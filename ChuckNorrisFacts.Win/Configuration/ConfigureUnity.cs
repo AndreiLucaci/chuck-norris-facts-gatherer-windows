@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using ChuckNorrisFacts.Win.Controllers;
 using Unity;
 
-namespace ChuckNorrisFacts.Win.Cofniguration
+namespace ChuckNorrisFacts.Win.Configuration
 {
 	public static class ConfigureUnity
 	{
